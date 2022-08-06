@@ -1,0 +1,26 @@
+.square {
+	background-color: #dce4f2;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+}
+
+.main-playgroung {
+	margin: 160px 250px ;    
+}
+
+.tail {
+	background-color: #5665d3;
+	width: 20px;
+	height: 20px;
+}
+
+#score {
+	display: inline-block;
+}
+
+.button {
+	display: inline-block;
+	margin: 0 15px;
+	width: 50px;
+}
