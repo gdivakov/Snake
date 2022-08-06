@@ -1,5 +1,5 @@
 # Snake
-Web implementation of popular game specs
+Web implementation of popular game snake
 
 ![image](https://user-images.githubusercontent.com/25494882/183263885-70dc5dd5-cdb7-44f5-bebe-f5fcfe53ad1f.png)
 
